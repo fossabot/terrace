@@ -1,4 +1,10 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foutsideris%2Fterrace.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Foutsideris%2Fterrace?ref=badge_shield)
+
 = Terrace
 
 Web management UI for link:https://www.terraform.io/[Terraform]
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foutsideris%2Fterrace.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Foutsideris%2Fterrace?ref=badge_large)
